@@ -1,0 +1,6 @@
+2025-02-22 17:39:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CATEGORY" not found (this database is empty); SQL statement:
+insert into category (id, description, name) values (default, ?, ?) [42104-214]
+2025-02-22 17:39:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CATEGORY" not found (this database is empty); SQL statement:
+insert into category (id, description, name) values (default, ?, ?) [42104-214]
